@@ -15,7 +15,7 @@ Our project is meticulously structured around three core components: SQL Queries
 # Key Analyses and Visualizations
 Game Summary: Home vs. Visitor Scores by Week
 
-    In this analysis, our objective is to scrutinize the home-field advantage by comparing scores between home and visitor teams across different weeks. By identifying patterns, such as potential advantages from familiar environments or crowd support, we uncover insights that influence strategic decisions, particularly in critical playoff scenarios.
+   In this analysis, our objective is to scrutinize the home-field advantage by comparing scores between home and visitor teams across different weeks. By identifying patterns, such as potential advantages from familiar environments or crowd support, we uncover insights that influence strategic decisions, particularly in critical playoff scenarios.
 
 - Top Players by Rushing Yards
 
