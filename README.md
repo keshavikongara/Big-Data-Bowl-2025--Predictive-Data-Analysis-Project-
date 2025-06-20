@@ -14,20 +14,22 @@ Our project is meticulously structured around three core components: SQL Queries
 
 # Key Analyses and Visualizations
 Game Summary: Home vs. Visitor Scores by Week
+
 In this analysis, our objective is to scrutinize the home-field advantage by comparing scores between home and visitor teams across different weeks. By identifying patterns, such as potential advantages from familiar environments or crowd support, we uncover insights that influence strategic decisions, particularly in critical playoff scenarios.
 
 - Top Players by Rushing Yards
+
 Our aim here is to rank players based on rushing yards, highlighting the top performers in this pivotal aspect of the game. Identifying these high-impact players allows us to refine defensive strategies and tailor offensive plays around their strengths, maximizing their influence on the field.
 
-Pass Completion Percentage by Team
+- Pass Completion Percentage by Team
 
 We evaluate passing efficiency across teams by analyzing completion percentages. High completion rates signify strong quarterback-receiver coordination, which is essential for maintaining offensive consistency and strategic planning throughout the game.
 
-Player Speed Analysis: Top Players by Max Speed
+- Player Speed Analysis: Top Players by Max Speed
 
 This analysis focuses on identifying players with exceptional speed capable of executing breakaway plays. Players with high-speed capabilities, particularly wide receivers, play crucial roles in executing swift movements essential for both offensive plays and defensive strategies.
 
-Average Yardage by Quarter
+- Average Yardage by Quarter
 
 Tracking average yardage per quarter provides insights into strategic adaptations and defensive endurance over the course of the game. Analyzing trends in yardage requirements reveals evolving game strategies and defensive adjustments that teams implement throughout each quarter.
 
