@@ -13,7 +13,7 @@ Our project is meticulously structured around three core components: SQL Queries
 - Insights Documentation: We meticulously document and interpret our findings to provide actionable insights tailored specifically for NFL gameplay and strategic enhancements. This documentation ensures that our discoveries translate into practical applications that can inform game strategies and player performance optimizations.
 
 # Key Analyses and Visualizations
-Game Summary: Home vs. Visitor Scores by Week
+**Game Summary: Home vs. Visitor Scores by Week**
 
 In this analysis, our objective is to scrutinize the home-field advantage by comparing scores between home and visitor teams across different weeks. By identifying patterns, such as potential advantages from familiar environments or crowd support, we uncover insights that influence strategic decisions, particularly in critical playoff scenarios.
 
@@ -21,15 +21,15 @@ In this analysis, our objective is to scrutinize the home-field advantage by com
 
 Our aim here is to rank players based on rushing yards, highlighting the top performers in this pivotal aspect of the game. Identifying these high-impact players allows us to refine defensive strategies and tailor offensive plays around their strengths, maximizing their influence on the field.
 
-# 2. Pass Completion Percentage by Team
+**2. Pass Completion Percentage by Team**
 
 We evaluate passing efficiency across teams by analyzing completion percentages. High completion rates signify strong quarterback-receiver coordination, which is essential for maintaining offensive consistency and strategic planning throughout the game.
 
-# 3. Player Speed Analysis: Top Players by Max Speed
+**3. Player Speed Analysis: Top Players by Max Speed**
 
 This analysis focuses on identifying players with exceptional speed capable of executing breakaway plays. Players with high-speed capabilities, particularly wide receivers, play crucial roles in executing swift movements essential for both offensive plays and defensive strategies.
 
-# 4. Average Yardage by Quarter
+**4. Average Yardage by Quarter**
 
 Tracking average yardage per quarter provides insights into strategic adaptations and defensive endurance over the course of the game. Analyzing trends in yardage requirements reveals evolving game strategies and defensive adjustments that teams implement throughout each quarter.
 
