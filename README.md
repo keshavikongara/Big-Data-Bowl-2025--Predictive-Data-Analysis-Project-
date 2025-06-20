@@ -17,7 +17,7 @@ Game Summary: Home vs. Visitor Scores by Week
 
 In this analysis, our objective is to scrutinize the home-field advantage by comparing scores between home and visitor teams across different weeks. By identifying patterns, such as potential advantages from familiar environments or crowd support, we uncover insights that influence strategic decisions, particularly in critical playoff scenarios.
 
-# 1. Top Players by Rushing Yards
+- **1. Top Players by Rushing Yards**
 
 Our aim here is to rank players based on rushing yards, highlighting the top performers in this pivotal aspect of the game. Identifying these high-impact players allows us to refine defensive strategies and tailor offensive plays around their strengths, maximizing their influence on the field.
 
