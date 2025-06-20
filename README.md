@@ -13,7 +13,7 @@ Our project is meticulously structured around three core components: SQL Queries
 - Insights Documentation: We meticulously document and interpret our findings to provide actionable insights tailored specifically for NFL gameplay and strategic enhancements. This documentation ensures that our discoveries translate into practical applications that can inform game strategies and player performance optimizations.
 
 # Key Analyses and Visualizations
-Game Summary: Home vs. Visitor Scores by Week
+**Game Summary**: Home vs. Visitor Scores by Week
 
 In this analysis, our objective is to scrutinize the home-field advantage by comparing scores between home and visitor teams across different weeks. By identifying patterns, such as potential advantages from familiar environments or crowd support, we uncover insights that influence strategic decisions, particularly in critical playoff scenarios.
 
