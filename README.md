@@ -10,14 +10,13 @@ Our project is meticulously structured around three core components: SQL Queries
 
 - Visualizations: Using Python scripts, we create visually compelling representations that uncover trends and patterns within the NFL player tracking data. These visual insights serve to illuminate key findings, making complex data accessible and actionable for our team.
 
-Insights Documentation: We meticulously document and interpret our findings to provide actionable insights tailored specifically for NFL gameplay and strategic enhancements. This documentation ensures that our discoveries translate into practical applications that can inform game strategies and player performance optimizations.
+- Insights Documentation: We meticulously document and interpret our findings to provide actionable insights tailored specifically for NFL gameplay and strategic enhancements. This documentation ensures that our discoveries translate into practical applications that can inform game strategies and player performance optimizations.
 
 # Key Analyses and Visualizations
 Game Summary: Home vs. Visitor Scores by Week
 In this analysis, our objective is to scrutinize the home-field advantage by comparing scores between home and visitor teams across different weeks. By identifying patterns, such as potential advantages from familiar environments or crowd support, we uncover insights that influence strategic decisions, particularly in critical playoff scenarios.
 
-Top Players by Rushing Yards
-
+- Top Players by Rushing Yards
 Our aim here is to rank players based on rushing yards, highlighting the top performers in this pivotal aspect of the game. Identifying these high-impact players allows us to refine defensive strategies and tailor offensive plays around their strengths, maximizing their influence on the field.
 
 Pass Completion Percentage by Team
