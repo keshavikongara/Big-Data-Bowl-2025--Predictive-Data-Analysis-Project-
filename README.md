@@ -1,7 +1,7 @@
 # Big-Data-Bowl-2025--Predictive-Data-Analysis-Project-
 Welcome to the NFL Big Data Bowl 2025 Predictive Analytics Project, a cutting-edge initiative leveraging NFL player tracking data to unlock deep insights into game dynamics, player performance, and strategic team decisions. This project is designed to provide actionable intelligence through sophisticated SQL queries, Python-based visualizations, and comprehensive analytics.
 
-Project Objective
+# Project-Objective-
 The goal of this project is to participate in the NFL Big Data Bowl competition on Kaggle, focusing on predictive analytics from pre-snap to post-snap scenarios. By extracting key data points from BigQuery using SQL queries, we aim to reveal trends and patterns that enhance game strategies, optimize player selection, and facilitate real-time decision-making for coaches and analysts.
 
 Structure and Methodology
