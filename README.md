@@ -19,21 +19,21 @@ In this analysis, our objective is to scrutinize the home-field advantage by com
 
 **1. Top Players by Rushing Yards**
 
-Our aim here is to rank players based on rushing yards, highlighting the top performers in this pivotal aspect of the game. Identifying these high-impact players allows us to refine defensive strategies and tailor offensive plays around their strengths, maximizing their influence on the field.
+- Our aim here is to rank players based on rushing yards, highlighting the top performers in this pivotal aspect of the game. Identifying these high-impact players allows us to refine defensive strategies and tailor offensive plays around their strengths, maximizing their influence on the field.
 
 **2. Pass Completion Percentage by Team**
 
-We evaluate passing efficiency across teams by analyzing completion percentages. High completion rates signify strong quarterback-receiver coordination, which is essential for maintaining offensive consistency and strategic planning throughout the game.
+- We evaluate passing efficiency across teams by analyzing completion percentages. High completion rates signify strong quarterback-receiver coordination, which is essential for maintaining offensive consistency and strategic planning throughout the game.
 
 **3. Player Speed Analysis: Top Players by Max Speed**
 
-This analysis focuses on identifying players with exceptional speed capable of executing breakaway plays. Players with high-speed capabilities, particularly wide receivers, play crucial roles in executing swift movements essential for both offensive plays and defensive strategies.
+- This analysis focuses on identifying players with exceptional speed capable of executing breakaway plays. Players with high-speed capabilities, particularly wide receivers, play crucial roles in executing swift movements essential for both offensive plays and defensive strategies.
 
 **4. Average Yardage by Quarter**
 
-Tracking average yardage per quarter provides insights into strategic adaptations and defensive endurance over the course of the game. Analyzing trends in yardage requirements reveals evolving game strategies and defensive adjustments that teams implement throughout each quarter.
+- Tracking average yardage per quarter provides insights into strategic adaptations and defensive endurance over the course of the game. Analyzing trends in yardage requirements reveals evolving game strategies and defensive adjustments that teams implement throughout each quarter.
 
-These focused analyses and visualizations demonstrate our commitment to leveraging advanced analytics to gain a competitive edge in NFL gameplay. Each insight is designed to drive smarter decisions, enhance team performance, and deliver measurable impacts on the field.
+- These focused analyses and visualizations demonstrate our commitment to leveraging advanced analytics to gain a competitive edge in NFL gameplay. Each insight is designed to drive smarter decisions, enhance team performance, and deliver measurable impacts on the field.
 
 
 
